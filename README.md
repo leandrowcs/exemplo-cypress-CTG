@@ -14,3 +14,4 @@ Os arquivos com casos de teste estão localizados na pasta [cypress/integration/
 2. Arquivo loginPageObj.spec.js - Usando PageObjects
 3. Arquivo loginPageCommands.spec.js - Usando Cypress commands
 
+Além disso, temos na pasta extras o arquivo [urlElements.spec.js](https://github.com/leandrowcs/exemplo-cypress-CTG/tree/main/cypress/integration/extras) que apresenta uma lista de comandos básicos para seleção de elementos e interação com eles.
