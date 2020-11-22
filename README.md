@@ -16,4 +16,5 @@ Os arquivos com casos de teste estão localizados na pasta [cypress/integration/
 
 Além disso, temos na pasta extras o arquivo [urlElements.spec.js](https://github.com/leandrowcs/exemplo-cypress-CTG/tree/main/cypress/integration/extras) que apresenta uma lista de comandos básicos para seleção de elementos e interação com eles.
 
+Um pouco mais de detalhes sobre Cypress no post:
 https://medium.com/@leandrowcs1985/vamos-falar-de-automa%C3%A7%C3%A3o-de-testes-web-cypress-6dfddfcb8d7d
