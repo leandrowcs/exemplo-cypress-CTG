@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('Login usando Cypress Command', () => {
+describe('Login usando Cypress', () => {
 
     it('TC01 - Login - Sucesso', () => {
         cy.visit('https://react-redux.realworld.io/#/login')
